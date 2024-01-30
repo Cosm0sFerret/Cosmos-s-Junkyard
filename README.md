@@ -1,2 +1,5 @@
-# Cosmos-s-Junkyard
-a bunch of junk that i've made
+# Cosmos's Junkyard
+welcome to cosmos's junkyard, full of a bunch of stuff that i've made
+
+> [!WARNING]  
+> yegh.

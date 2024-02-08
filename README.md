@@ -1,6 +1,5 @@
 > [!CAUTION]  
-> forwarders may not work with vWii, sorry wii u users!
-> also install with caution to everyone :P
+> forwarders may not work with vWii, if my wads brick your wii i'm not responsible but still feel free to yell at me!
 
 # WELCOME
 welcome to cosmos's junkyard, full of a bunch of wii stuff

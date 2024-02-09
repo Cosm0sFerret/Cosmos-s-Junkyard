@@ -15,3 +15,6 @@ this channel shuts off the wii, that's it!
 ### YAWMME Forwarder
 this is a forwarder for yet another wad manager modmii edtion, that's basically it
 <br> based off of uniiloader forwarder by Davi92 & DJSim1
+### Nintendon't Forwarder
+this is a forwarder for nintendon't, a gamecube
+<br> based off of the gamecube disc channel banner, logo from this gbatemp thread: https://gbatemp.net/threads/nintendont-looking-for-a-logo.353275/page-5

@@ -15,6 +15,7 @@ this channel shuts off the wii, that's it!
 ### YAWM ModMii Edition Forwarder
 this is a forwarder for yawm modmii edition
 <br> based off of mastershoe & jjkwik's usb loader forwarder
+<br> v1.1 makes the music a bit less loud and adjusts the background
 ### Old YAWMME Forwarder
 this is the old forwarder for yawmme, also my first forwarder
 <br> based off of uniiloader forwarder by Davi92 & DJSim1

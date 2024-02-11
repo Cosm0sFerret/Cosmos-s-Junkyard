@@ -12,8 +12,11 @@ this forwarder is an edit of the modmii usb channel wad that removes the rapidly
 ### Shutdown
 this channel shuts off the wii, that's it!
 <br> based off of leathl's snes9xgx forwarder, dol by emilydaemon
-### YAWMME Forwarder
-this is a forwarder for yet another wad manager modmii edtion, that's basically it
+### YAWM ModMii Edition Forwarder
+this is a forwarder for yawm modmii edition
+<br> based off of mastershoe & jjkwik's usb loader forwarder
+### Old YAWMME Forwarder
+this is the old forwarder for yawmme, also my first forwarder
 <br> based off of uniiloader forwarder by Davi92 & DJSim1
 ### Nintendon't Forwarder
 this is a forwarder for nintendon't, a gamecube
